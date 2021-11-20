@@ -6,7 +6,7 @@ Has a selection of useful classes designed to implement some new functionality t
 
 
 Classes:
-
+```
   Errors:
   
     ExecutionError
@@ -76,10 +76,10 @@ Classes:
   Vector
   
   Matrix
-
+```
 
 Functions:
-
+```
   AlphaNumConverter
   
   QuadraticSolver
@@ -101,7 +101,7 @@ Functions:
   Date
   
   Pythagoras
- 
+``` 
  
 All functions and classes are type hinted and documented, please enjoy!
 (And if you like this, then maybe when it is stable, you could try the new programming language in development BMPY (made by me, so may take a long time to be in a stable branch))
