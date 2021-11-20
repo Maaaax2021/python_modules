@@ -1,5 +1,5 @@
 # python_modules
-A short selection of extra features for python within my package 'modules'
+A short selection of extra features for python within my package 'sflcore'
 
 
 Has a selection of useful classes designed to implement some new functionality to python (and begin the setup of the WIP language BMPY)
